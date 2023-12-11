@@ -1,0 +1,5 @@
+{
+    "categories": ["Phones", "Latops", "Monitors"],
+    "menu": ["Home", "Contact", "About us", "Log in", "Sing up"],
+    "carouselImages": ["Samsung1.jpg", "nexus1.jpg", "iphone1.jpg"]
+}
